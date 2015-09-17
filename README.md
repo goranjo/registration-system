@@ -1,2 +1,2 @@
 # registration-system
-Registration system in Laravel 5.1.14
+Registration system in Laravel 5.1.4
